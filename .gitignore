@@ -1,0 +1,60 @@
+# =============================================
+# BAS Platform – .gitignore
+# =============================================
+
+# ── Python ──────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ── Virtual Environment ──────────────────────
+venv/
+env/
+.venv/
+ENV/
+
+# ── Environment / Secrets ───────────────────
+.env
+*.secret
+*.key
+
+# ── Logs & Runtime Data ──────────────────────
+logs/
+data/
+*.log
+*.db
+*.sqlite3
+
+# ── Test / Temp Reports ───────────────────────
+discovery_report_*.json
+
+# ── Binaries ─────────────────────────────────
+*.exe
+*.dll
+*.so
+*.dylib
+
+# ── Sliver C2 Runtime ────────────────────────
+go/
+sliver_implants/
+
+# ── Web UI Build ────────────────────────────
+web-ui/node_modules/
+web-ui/dist/
+
+# ── OS ──────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDEs ────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
