@@ -1,4 +1,4 @@
-MIT License (Academic Research Variant)
+MIT License
 
 Copyright (c) 2026 Akila
 
@@ -14,25 +14,18 @@ copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ---
 
-IMPORTANT ETHICAL AND LEGAL NOTICE
-====================================
+ETHICAL USE NOTICE
+==================
 
-This software is intended exclusively for:
-  - Academic and cybersecurity research
-  - Authorized penetration testing in isolated lab environments
-  - Defensive tool evaluation by security professionals
-
-You MAY NOT use this software to:
-  - Attack systems you do not own or have explicit written authorization to test
-  - Cause harm, unauthorized access, or disruption to any system
-  - Violate any applicable local, national, or international law
-
-By using this software, you agree to take full legal and ethical responsibility
-for all actions performed with it. The author(s) assume no liability for
-misuse of this tool.
-
-This tool is for EDUCATIONAL PURPOSES ONLY. Use responsibly.
+This software is intended for authorized security testing, research, and
+defensive evaluation only. By using, modifying, or distributing this software,
+you agree NOT to use it to attack systems without explicit written authorization
+or to violate any applicable law. The author(s) assume no liability for misuse.
