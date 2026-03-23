@@ -25,7 +25,13 @@ SOFTWARE.
 ETHICAL USE NOTICE
 ==================
 
-This software is intended for authorized security testing, research, and
-defensive evaluation only. By using, modifying, or distributing this software,
-you agree NOT to use it to attack systems without explicit written authorization
-or to violate any applicable law. The author(s) assume no liability for misuse.
+This software is designed for authorized security testing, cybersecurity
+research, and defensive evaluation. By using, modifying, or distributing
+this software, you agree that you will NOT use it to:
+
+  - Attack systems without explicit written authorization from the system owner
+  - Cause unauthorized access, disruption, or harm to any system or network
+  - Violate any applicable local, national, or international law or regulation
+
+The author(s) and contributors assume no liability and are not responsible for
+any misuse or damage caused by this software. Use responsibly and ethically.
