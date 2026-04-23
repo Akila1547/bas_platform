@@ -288,7 +288,7 @@ This project is developed for **academic and research purposes** as part of a gr
 ## 👤 Author
 
 **Akila** — Graduate Researcher, Cybersecurity  
-*Built as part of a Breach and Attack Simulation research project*
+*Built as part of a Breach and Attack Simulation research project(Masters dissertation)*
 
 ---
 
